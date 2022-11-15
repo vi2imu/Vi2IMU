@@ -1,9 +1,9 @@
 # Vi2IMU: Synthetic Smart Watch IMU data generation from in-the-wild videos
 **Sample videos in MSASL curated from YouTube**
 
-[![](https://github.com/vi2imu/Vi2IMU/blob/master/Content/youtube1.png)](https://www.youtube.com/watch?v=25ymRY7hbjs)
-[![](https://github.com/vi2imu/Vi2IMU/blob/master/Content/youtube2.png)](https://www.youtube.com/watch?v=imDas8UGjv4)
-[![](https://github.com/vi2imu/Vi2IMU/blob/master/Content/youtube3.png)](https://www.youtube.com/watch?v=lluXahiVWP4)
+[![](https://github.com/vi2imu/Vi2IMU/blob/main/Content/youtube1.png)](https://www.youtube.com/watch?v=25ymRY7hbjs)
+[![](https://github.com/vi2imu/Vi2IMU/blob/main/Content/youtube2.png)](https://www.youtube.com/watch?v=imDas8UGjv4)
+[![](https://github.com/vi2imu/Vi2IMU/blob/main/Content/youtube3.png)](https://www.youtube.com/watch?v=lluXahiVWP4)
 
 ----
 
