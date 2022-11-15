@@ -21,3 +21,4 @@ Vi2IMU
 |- IMU_data_plots - Acceleration and Gyro plots for measured and translated data for the 80 gestures     
 |- README.md - Readme file     
 |- raw_data.zip - Translated data and labels without augmentation     
+|- augmented_data.zip - Translated data and labels with augmentation     
