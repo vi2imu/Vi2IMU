@@ -1,17 +1,17 @@
 # Vi2IMU: Synthetic Smart Watch IMU data generation from in-the-wild videos
 **Sample videos in MSASL curated from YouTube**
 
-[![](https://github.com/sensys2022/Vi2IMU/blob/master/Content/youtube1.png)](https://www.youtube.com/watch?v=25ymRY7hbjs)
-[![](https://github.com/sensys2022/Vi2IMU/blob/master/Content/youtube2.png)](https://www.youtube.com/watch?v=imDas8UGjv4)
-[![](https://github.com/sensys2022/Vi2IMU/blob/master/Content/youtube3.png)](https://www.youtube.com/watch?v=lluXahiVWP4)
+[![](https://github.com/vi2imu/Vi2IMU/blob/master/Content/youtube1.png)](https://www.youtube.com/watch?v=25ymRY7hbjs)
+[![](https://github.com/vi2imu/Vi2IMU/blob/master/Content/youtube2.png)](https://www.youtube.com/watch?v=imDas8UGjv4)
+[![](https://github.com/vi2imu/Vi2IMU/blob/master/Content/youtube3.png)](https://www.youtube.com/watch?v=lluXahiVWP4)
 
 ----
 
 **Pictures comparing measured and translated IMU data**
 
-![Comparing measure and translated acceleration data](https://github.com/sensys2022/Vi2IMU/blob/master/Content/Acceleration_measured_translated_comparison.png)
+![Comparing measure and translated acceleration data](https://github.com/vi2imu/Vi2IMU/blob/master/Content/Acceleration_measured_translated_comparison.png)
 
-![Comparing measured and translated gyro data](https://github.com/sensys2022/Vi2IMU/blob/master/Content/Gyro_measured_translated_comparison.png)
+![Comparing measured and translated gyro data](https://github.com/vi2imu/Vi2IMU/blob/master/Content/Gyro_measured_translated_comparison.png)
 
 ---
 **Directory Structure**
